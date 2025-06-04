@@ -1,1 +1,1 @@
-# chillpill-mental-wellness
+Chill Pill is a simple, interactive C program designed to support mental health and well-being. It provides personalized daily tasks based on the user’s mood — ranging from good moods to various levels of depression — to encourage positive habits and self-care.
